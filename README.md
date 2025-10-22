@@ -1,4 +1,4 @@
-# 1matplotlib
+# matplotlib
 
 # matplotlib란?
 
